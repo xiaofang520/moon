@@ -1,10 +1,7 @@
 come on  22
-<<<<<<< HEAD
+
 gogo
 fa 44
-=======
-gogo 33
-fa
->>>>>>> origin/fall
+
 
 xiaofang@foxmail.com 11
